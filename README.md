@@ -15,7 +15,7 @@ NinjaDDOS hits hard with its 30K/minute firepower—enough to stress mid-tier se
 ## 🎥 Watch It in Action
 Check out this video to see NinjaDDOS unleashed:
 
-[![NinjaDDOS Demo]                   (https://img.youtube.com/vi/_fSme0B-1ic/0.jpg)](https://youtu.be/_fSme0B-1ic)
+[![NinjaDDOS Demo](https://img.youtube.com/vi/_fSme0B-1ic/0.jpg)](https://youtu.be/_fSme0B-1ic)
 
 ## ⭐ Star It, Share It!
 This tool’s a gem for testers and coders alike—give it a **Star** ⭐ and **Share** 🔗 to spread the ninja’s legacy. Your click counts!
