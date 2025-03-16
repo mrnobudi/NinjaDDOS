@@ -12,6 +12,11 @@
 ## 🏆 Power Profile
 NinjaDDOS hits hard with its 30K/minute firepower—enough to stress mid-tier servers into submission—while its proxy layer keeps you off the radar. The WPF interface, with rounded buttons and embedded assets, runs slick and responsive, proving power doesn’t need to be clunky.
 
+## 🎥 Watch It in Action
+Check out this video to see NinjaDDOS unleashed:
+
+[![NinjaDDOS Demo](https://img.youtube.com/vi/_fSme0B-1ic/0.jpg)](https://youtu.be/_fSme0B-1ic)
+
 ## ⭐ Star It, Share It!
 This tool’s a gem for testers and coders alike—give it a **Star** ⭐ and **Share** 🔗 to spread the ninja’s legacy. Your click counts!
 
